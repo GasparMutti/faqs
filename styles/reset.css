@@ -1,5 +1,13 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+
+p {
+    max-width: 60ch;
+    line-height: 1.6;
+    text-wrap: balance;
+    word-wrap: break-word;
+    font-weight: 500;
 }
