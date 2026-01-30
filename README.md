@@ -14,3 +14,39 @@ Users should be able to:
 - Navigate the questions and hide/show answers using keyboard navigation alone
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
+
+### Screenshots
+
+![mobile](./assets/images/mobileScreenshot.png)
+![tablet](./assets/images/tabletScreenshot.png)
+![desktop](./assets/images/desktopScreenshot.png)
+
+### Links
+
+- Solution URL: [Github](https://github.com/GasparMutti/faqs)
+- Live Site URL: [Github](https://gasparmutti.github.io/faqs)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Modern CSS
+- Mobile-first workflow
+
+### What I learned
+
+This project helped me improve my semantic HTML and modern CSS skills, learning new tags, features and ways of working.
+
+### Continued development
+
+I need to keep learning how to better use CSS selectors and ways to transition and animate elements with CSS.
+
+### Useful resources
+
+- [Entry-Exit Animations](https://developer.chrome.com/blog/entry-exit-animations/) - This is an amazing article and helped me with css animations and learning modern features.
+
+## Author
+
+- Github - [Gaspar Mutti](https://github.com/GasparMutti)
+- Frontend Mentor - [@gasparmutti](https://www.frontendmentor.io/profile/gasparmutti)
